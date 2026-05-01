@@ -34,7 +34,7 @@ df = load_data()
 # 3. SIDEBAR: FILTERS & NAVIGATION
 # ==========================================
 st.sidebar.title("📊 Superstore Analytics")
-st.sidebar.markdown("TCS iON Industry Project by **Bhumika**")
+st.sidebar.markdown("---")
 st.sidebar.markdown("---")
 
 # Navigation Menu matching Power BI Tabs
