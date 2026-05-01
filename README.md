@@ -65,10 +65,10 @@ Bash
 
 python -m venv venv
 
-# On Windows:
+## On Windows:
 venv\Scripts\activate
 
-# On Mac/Linux:
+## On Mac/Linux:
 source venv/bin/activate
 Install dependencies:
 Install the required Python packages listed in the requirements file.
